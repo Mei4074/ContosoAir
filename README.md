@@ -1,5 +1,4 @@
-
-
+[![Build Status](https://dev.azure.com/zhengmeilan88/AzDevOpTraining/_apis/build/status/Mei4074.ContosoAir?branchName=master)](https://dev.azure.com/zhengmeilan88/AzDevOpTraining/_build/latest?definitionId=3&branchName=master)
 
 # Microsoft.Github CI Demo
 
